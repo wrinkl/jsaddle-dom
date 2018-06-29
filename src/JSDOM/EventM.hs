@@ -12,6 +12,7 @@ module JSDOM.EventM
 , removeListener
 , releaseListener
 , on
+, onThese
 , event
 , eventTarget
 , target
